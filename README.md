@@ -110,14 +110,6 @@ Users can enter the product ID to check authenticity.
 
 ---
 
-### ✅ Verified Product Result
-If the product exists, its details are retrieved directly from the blockchain.
-``
-
-![Verified Product](./screenshots/product_verified.png)
-
----
-
 ## ⚙️ Setup & Installation
 
 Follow these steps to run the project locally.
@@ -220,4 +212,5 @@ Potential upgrades include:
 Blockchain Developer | Web Developer  
 
 GitHub: https://github.com/Riteshmendhe26
+
 
