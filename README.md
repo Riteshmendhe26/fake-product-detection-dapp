@@ -70,22 +70,12 @@ These transactions can be monitored in **Ganache**.
 ### 🏦 Ganache Accounts
 Displays Ethereum accounts used for transactions and smart contract deployment.
 
-Image Path:
-```
-./screenshots/ganache_accounts.png
-```
-
 ![Ganache Accounts](./screenshots/ganache_accounts.png)
 
 ---
 
 ### 📦 Blockchain Blocks
 Each product registration creates a new block on the blockchain.
-
-Image Path:
-```
-./screenshots/ganache_blocks.png
-```
 
 ![Ganache Blocks](./screenshots/ganache_blocks.png)
 
@@ -94,10 +84,6 @@ Image Path:
 ### 🔗 Blockchain Transactions
 All interactions with the smart contract are recorded as transactions.
 
-Image Path:
-```
-./screenshots/ganache_transactions.png
-```
 
 ![Ganache Transactions](./screenshots/ganache_transactions.png)
 
@@ -106,22 +92,12 @@ Image Path:
 ### ➕ Product Registration Interface
 Manufacturers can add product information and store it on the blockchain.
 
-Image Path:
-```
-./screenshots/add_product.png
-```
-
 ![Add Product](./screenshots/add_product.png)
 
 ---
 
 ### 🔳 QR Code Generation
 A QR code is generated automatically after product registration.
-
-Image Path:
-```
-./screenshots/generate_qr.png
-```
 
 ![Generate QR](./screenshots/generate_qr.png)
 
@@ -130,22 +106,13 @@ Image Path:
 ### 🔍 Product Verification Interface
 Users can enter the product ID to check authenticity.
 
-Image Path:
-```
-./screenshots/verify_product.png
-```
-
 ![Verify Product](./screenshots/verify_product.png)
 
 ---
 
 ### ✅ Verified Product Result
 If the product exists, its details are retrieved directly from the blockchain.
-
-Image Path:
-```
-./screenshots/product_verified.png
-```
+``
 
 ![Verified Product](./screenshots/product_verified.png)
 
@@ -253,3 +220,4 @@ Potential upgrades include:
 Blockchain Developer | Web Developer  
 
 GitHub: https://github.com/Riteshmendhe26
+
