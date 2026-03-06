@@ -208,9 +208,19 @@ Potential upgrades include:
 
 ## 👨‍💻 Author
 
-**Ritesh Dinesh Mendhe**  
-Blockchain Developer | Web Developer  
+**Ritesh Mendhe**
 
-GitHub: https://github.com/Riteshmendhe26
+Blockchain Developer | Full Stack Developer | Web3 Enthusiast  
+
+LinkedIn  
+https://www.linkedin.com/in/ritesh-mendhe-209225294  
+
+GitHub  
+https://github.com/riteshmendhe2602  
+
+---
+
+⭐ If you like this project, give it a **star on GitHub**.
+
 
 
